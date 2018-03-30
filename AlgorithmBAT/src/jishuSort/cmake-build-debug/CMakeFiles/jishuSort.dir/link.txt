@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/jishuSort.dir/main.cpp.o  -o jishuSort 

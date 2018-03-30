@@ -1,3 +1,0 @@
-/home/agile/learn/newcoder/AlgorithmBAT/src/jishuSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/agile/learn/newcoder/AlgorithmBAT/src/jishuSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/agile/learn/newcoder/AlgorithmBAT/src/jishuSort/cmake-build-debug/CMakeFiles/jishuSort.dir

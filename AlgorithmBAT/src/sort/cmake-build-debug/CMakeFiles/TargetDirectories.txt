@@ -1,3 +1,0 @@
-/home/agile/learn/newcoder/AlgorithmBAT/src/sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/agile/learn/newcoder/AlgorithmBAT/src/sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/agile/learn/newcoder/AlgorithmBAT/src/sort/cmake-build-debug/CMakeFiles/sort.dir

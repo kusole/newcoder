@@ -1,3 +1,0 @@
-/home/agile/learn/newcoder/c++basic/ch11/11_38/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/agile/learn/newcoder/c++basic/ch11/11_38/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/agile/learn/newcoder/c++basic/ch11/11_38/cmake-build-debug/CMakeFiles/11_38.dir
