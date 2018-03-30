@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agile/learn/newcoder/c++basic/ch11/11_38/main.cpp
+iostream
+-
+map
+-
+vector
+-
+fstream
+-
+string
+-
+stdexcept
+-
+sstream
+-
+

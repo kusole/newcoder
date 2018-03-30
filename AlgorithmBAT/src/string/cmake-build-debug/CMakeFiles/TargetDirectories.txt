@@ -1,0 +1,3 @@
+/home/agile/learn/newcoder/AlgorithmBAT/src/string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/agile/learn/newcoder/AlgorithmBAT/src/string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/agile/learn/newcoder/AlgorithmBAT/src/string/cmake-build-debug/CMakeFiles/string.dir

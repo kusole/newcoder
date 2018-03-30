@@ -1,0 +1,3 @@
+/home/agile/learn/newcoder/c++basic/第８章/8_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/agile/learn/newcoder/c++basic/第８章/8_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/agile/learn/newcoder/c++basic/第８章/8_1/cmake-build-debug/CMakeFiles/8_1.dir
