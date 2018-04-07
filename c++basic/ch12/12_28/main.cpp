@@ -64,7 +64,7 @@ void runQueries(ifstream &infile){
 int main() {
     ifstream infile("../storyDatafile");
     if(!infile){
-        throw runtime_error("不能打开文件");
+        throw runtime_error("cant open the input file");
     }
     runQueries(infile);
     return 0;
